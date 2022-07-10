@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "UniCNC-Boards")(type "KiCad")(uri "${KIPRJMOD}/unicnc-lib/UniCNC-Boards.pretty")(options "")(descr ""))
+)

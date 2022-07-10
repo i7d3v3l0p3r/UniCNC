@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "UniCNC-Boards")(type "KiCad")(uri "${KIPRJMOD}/unicnc-lib/UniCNC-Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "UniCNC-Connectors")(type "KiCad")(uri "${KIPRJMOD}/unicnc-lib/UniCNC-Connectors.kicad_sym")(options "")(descr ""))
+)
